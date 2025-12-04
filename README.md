@@ -1,1 +1,1 @@
-# formacology_game_public
+# formacology-game-public
