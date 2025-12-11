@@ -1,1 +1,0 @@
-import{_ as s,c as t,o as c,a as o,r as n}from"./index-lo49Q6FW.js";const a={},r={class:"content"},_={class:"content__wrapper"};function d(e,i){return c(),t("div",r,[o("div",_,[n(e.$slots,"default",{},void 0,!0)])])}const l=s(a,[["render",d],["__scopeId","data-v-6d6cc443"]]);export{l as A};

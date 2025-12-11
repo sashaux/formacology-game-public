@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as c,g as o}from"./index-DMiL54h5.js";const n={},r={class:"title"};function a(e,_){return c(),s("div",r,[o(e.$slots,"default",{},void 0)])}const l=t(n,[["render",a],["__scopeId","data-v-85232fc6"]]);export{l as A};
