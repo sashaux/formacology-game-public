@@ -1,1 +1,0 @@
-import{_ as s,c,o as t,a as o,g as n}from"./index-DMiL54h5.js";const a={},r={class:"content"},_={class:"content__wrapper"};function d(e,i){return t(),c("div",r,[o("div",_,[n(e.$slots,"default",{},void 0)])])}const l=s(a,[["render",d],["__scopeId","data-v-6d6cc443"]]);export{l as A};
