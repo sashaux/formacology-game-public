@@ -1,0 +1,1 @@
+import{d as a,c as r,g as c,o as n,_ as p}from"./index-BLASkVfS.js";const m=a({__name:"AppForm",props:{formData:{type:Object,default:()=>({})}},setup(e){const t=e,s=o=>{console.log("onSubmit",o),console.log(t.formData)};return(o,f)=>(n(),r("form",{class:"form",onSubmit:s},[c(o.$slots,"default",{},void 0)],32))}}),d=p(m,[["__scopeId","data-v-cd1fefd5"]]);export{d as A};
