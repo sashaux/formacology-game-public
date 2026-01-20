@@ -1,1 +1,0 @@
-import{d as a,f as r,g as n,o as c,_ as p}from"./index-D2Y5BDZw.js";const m=a({__name:"AppForm",props:{formData:{type:Object,default:()=>({})}},setup(e){const t=e,s=o=>{console.log("onSubmit",o),console.log(t.formData)};return(o,f)=>(c(),r("form",{class:"form",onSubmit:s},[n(o.$slots,"default",{},void 0)],32))}}),d=p(m,[["__scopeId","data-v-cd1fefd5"]]);export{d as A};

@@ -1,0 +1,1 @@
+import{A as a}from"./AppTitle-D7CgeKtU.js";import{A as o}from"./AppMain-DVOYohiG.js";import{d as r,c as n,w as e,a as p,b as s,o as l}from"./index-BcBVnB6d.js";const c=r({__name:"IntroPage",setup(i){return(m,t)=>(l(),n(o,null,{default:e(()=>[p(a,null,{default:e(()=>[...t[0]||(t[0]=[s(" Intro title ",-1)])]),_:1})]),_:1}))}});export{c as default};
